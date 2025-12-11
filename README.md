@@ -1,7 +1,7 @@
 
 # Chat with MySQL (Backend) 
 
-> Final Project Glue-4
+> Final Project
 
 Platform Chat with MySQL menggunakan python dan OpenAI API untuk membantu baca dan analisis database MySQL tanpa perlu menjadi ahli MySQL.
 
