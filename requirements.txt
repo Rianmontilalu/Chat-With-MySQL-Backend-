@@ -1,0 +1,5 @@
+flask==3.0.3
+langchain-openai==0.1.9
+mysql-connector-python==8.0.5
+openai==1.35.3
+python-dotenv==1.0.1
