@@ -65,6 +65,8 @@ Isi bagian kosong dengan pertanyaan dan data dari database MySQL milikmu!
 
 Perhatikan beberapa hal berikut!
 
+- Perlu diketahui program tidak bisa dijalankan karena masa berlaku token untuk penggunaan AWS dan OPENAI API sudah habis dan digunakan selama masa pengerjaan dan presentasi projek.
+
 - Pastikan nama variabel pada file  `.env ` adalah  `OPENAI_API_KEY`
 
 - Masukkan data dari database yang valid!.
