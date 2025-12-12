@@ -7,12 +7,6 @@ Platform Chat with MySQL menggunakan python dan OpenAI API untuk membantu baca d
 
 ## ⚙️ Deployment
 
-Untuk deploy, lakukan clone repo terlebih dahulu
-
-```bash
-  git clone https://github.com/Glue-4/back-end.git](https://github.com/Rianmontilalu/Chat-With-MySQL-Backend-.git
-```
-
 Buat file .env pada folder dan hirarki yang sama untuk API key dari OpenAI API *(Jangan lupa taruh API key milikmu)*
 
 ```bash
