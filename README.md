@@ -42,6 +42,8 @@ Jalankan docker menggunakan docker compose agar **environment** dan **port forwa
 ```bash
   docker-compose up
 ```
+![Image Alt](https://github.com/Rianmontilalu/Chat-With-MySQL-Backend-/blob/0eaa5f6f029c331554c4c4ad1804e6527fe3f587/arcitecture.png)
+
 ## 🖥️ Contoh Penggunaan
 
 Pada penggunaannya gunakan aplikasi **Postman** atau sejenisnya, hubungkan ke url `http://localhost:8000/query` atau url lainnya *(Jika diatur berbeda)*, gunakan template file json dibawah ini untuk menggunakan API!
