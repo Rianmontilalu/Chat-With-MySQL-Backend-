@@ -4,6 +4,24 @@
 > Final Project
 
 Platform Chat with MySQL menggunakan python dan OpenAI API untuk membantu baca dan analisis database MySQL tanpa perlu menjadi ahli MySQL.
+Arsitektur Sistem 
+● Frontend: Streamlit 
+● Backend: LangChain + OpenAI API 
+● Database: MySQL 
+
+Deployment: 
+○ Lokal untuk pengembangan awal 
+○ AWS EC2 sebagai server untuk web app 
+○ AWS RDS untuk MySQL 
+  
+Teknologi dan Alat yang Digunakan 
+● Python: Bahasa pemrograman utama. 
+● Streamlit: Untuk antarmuka pengguna. 
+● LangChain: Untuk mengelola integrasi dengan OpenAI API. 
+● OpenAI API: Untuk model bahasa. 
+● MySQL: Untuk penyimpanan data. 
+● AWS EC2: Untuk hosting aplikasi. 
+● AWS RDS MySQL: Untuk hosting database. 
 
 ## ⚙️ Deployment
 
